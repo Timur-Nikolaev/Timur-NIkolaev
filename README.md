@@ -1,115 +1,175 @@
-# 👾 Timur Nikolaev
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020806,100:063D27&height=150&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=55FF99&fontAlignY=48&animation=fadeIn" width="100%" alt="SYSTEM ONLINE" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=55FF99&center=true&vCenter=true&width=650&lines=%3E+initializing+environment...;%3E+python+%7C+reverse+engineering;%3E+disassembling+the+unknown...;%3E+exploring+neural+networks...;%3E+research_mode%3DTrue" alt="Terminal typing animation" />
+
+<br />
+
+<img src="./assets/terminal-green-loop.gif" width="92%" alt="Green retro terminal workspace" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/PYTHON-0B2819?style=for-the-badge&logo=python&logoColor=7CFF9B"/>
+<img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-0B2819?style=for-the-badge&logoColor=7CFF9B"/>
+<img src="https://img.shields.io/badge/IDA%20PRO-0B2819?style=for-the-badge&logoColor=7CFF9B"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-0B2819?style=for-the-badge&logoColor=7CFF9B"/>
+
+</div>
+
+---
+
+## `01` // PROFILE
+
+```python
+profile = {
+    "role": "Python Developer",
+    "focus": [
+        "Reverse Engineering",
+        "Binary Analysis",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Neural Networks",
+        "Software Internals",
+    ],
+    "mindset": "Understand how things work under the hood.",
+}
+```
+
+Interested in exploring software internals, analyzing binaries, writing Python tools, and experimenting with machine learning.
+
+---
+
+## `02` // REVERSE ENGINEERING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:06b6d4&height=200&section=header&text=TIMUR%20NIKOLAEV&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20AI%20%7C%20Reverse%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://img.shields.io/badge/IDA%20PRO-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/DISASSEMBLY-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/BINARY%20ANALYSIS-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/DEBUGGING-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Reverse+Engineering+%F0%9F%94%AC;Artificial+Intelligence+%F0%9F%A7%A0;Machine+Learning+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Typing SVG" />
-</a>
+</div>
+
+```asm
+.text:00401000    push    ebp
+.text:00401001    mov     ebp, esp
+.text:00401003    sub     esp, 10h
+.text:00401006    call    analyze_binary
+.text:0040100B    test    eax, eax
+.text:0040100D    jnz     loc_401020
+```
+
+**Topics of interest**
+
+- IDA Pro, disassembly, and decompilation
+- Binary formats and executable structure
+- Debugging and program behavior analysis
+- Python tooling for repetitive analysis tasks
+- Low-level programming concepts
+
+---
+
+## `03` // ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NEURAL%20NETWORKS-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/MODEL%20TRAINING-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+<img src="https://img.shields.io/badge/LLM-102819?style=flat-square&labelColor=07150D&color=174D2D"/>
+
+</div>
+
+```python
+import torch.nn as nn
+
+model = nn.Sequential(
+    nn.Linear(128, 256),
+    nn.ReLU(),
+    nn.Linear(256, 64),
+    nn.ReLU(),
+    nn.Linear(64, 10),
+)
+```
+
+**Topics of interest**
+
+- Neural network architectures
+- Training loops, loss functions, and optimization
+- Deep learning with Python
+- Large language models and NLP
+- Practical AI experiments
+
+---
+
+## `04` // TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,linux,bash,git,vscode&theme=dark"/>
+
+</div>
+
+<details>
+<summary><b>Tooling and areas being explored</b></summary>
+
+| Area | Tools / Topics |
+|:--|:--|
+| Programming | Python |
+| Reverse engineering | IDA Pro, disassembly, debugging |
+| Machine learning | PyTorch, TensorFlow, scikit-learn |
+| Data work | NumPy |
+| Environment | Linux, Bash |
+| Workflow | Git, VS Code |
+
+</details>
+
+---
+
+## `05` // GITHUB STATS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Timur-Nikolaev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55FF99&icon_color=55FF99&text_color=A8B5AA&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timur-Nikolaev&layout=compact&hide_border=true&bg_color=0D1117&title_color=55FF99&text_color=A8B5AA"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Timur-Nikolaev)
-![Profile Views](https://komarev.com/ghpvc/?username=Timur-Nikolaev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+<img src="https://streak-stats.demolab.com?user=Timur-Nikolaev&theme=dark&hide_border=true&background=0D1117&ring=55FF99&fire=55FF99&currStreakLabel=55FF99&sideLabels=A8B5AA&dates=718578"/>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## `06` // CONTRIBUTION GRAPH
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Timur Nikolaev"
-        self.role = "Python Developer"
-        self.languages = ["Python"]
-        self.interests = [
-            "Reverse Engineering",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Neural Networks",
-            "Software Analysis"
-        ]
+<div align="center">
 
-    def motto(self):
-        return "Understand how things work. Build something better."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Timur-Nikolaev&bg_color=0D1117&color=55FF99&line=238B45&point=7CFF9B&area=true&hide_border=true" width="100%"/>
 
-me = Developer()
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  STATUS      : ONLINE                        │
+│  ENVIRONMENT : PYTHON                        │
+│  INTERESTS   : RE / AI / ML                  │
+│  MODE        : CONTINUOUS LEARNING           │
+│                                              │
+│  > inspect()                                 │
+│  > understand()                              │
+│  > build()                                   │
+└──────────────────────────────────────────────┘
 ```
 
-I'm interested in understanding how software works under the hood, exploring artificial intelligence and building intelligent systems.
+**Stay curious. Read the bytes. Understand the system.**
 
-Currently exploring new technologies, experimenting with Python and learning something new every day.
-
----
-
-## 🐍 Python Ecosystem
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:063D27,100:020806&height=55&section=footer" width="100%"/>
 
 </div>
-
----
-
-## 🔬 Reverse Engineering
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Reverse%20Engineering-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Analysis-06B6D4?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Disassembly-7C3AED?style=for-the-badge&logo=gnuemacs&logoColor=white"/>
-
-</div>
-
-Exploring:
-
-- Binary analysis and executable formats
-- Disassembly and decompilation
-- Python internals
-- Software architecture
-- Debugging and low-level concepts
-
----
-
-## 🧠 Artificial Intelligence
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-</div>
-
-Interested in:
-
-- Neural Networks
-- Deep Learning
-- Large Language Models (LLMs)
-- Natural Language Processing
-- AI-powered applications
-
----
-
-## 🤖 Machine Learning
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
-Exploring model training, data processing, neural network architectures and intelligent automation.
-
----
-
-## ⚡ GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Timur-Nikolaev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=
